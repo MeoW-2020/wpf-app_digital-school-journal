@@ -1,0 +1,113 @@
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister.csproj.AssemblyReference.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\MainWindow.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\App.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.lref
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\bin\Debug\ClassRegister.exe.config
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\bin\Debug\ClassRegister.exe
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\bin\Debug\ClassRegister.pdb
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\MainWindow.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister.g.resources
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister.Properties.Resources.resources
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister.csproj.GenerateResource.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister.csproj.CoreCompileInputs.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister.exe
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\ClassRegister.pdb
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\Pages\LoginPage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\App.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\Pages\LoginPage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\Pages\StudentHomePage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister\ClassRegister\obj\Debug\Pages\StudentHomePage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.exe.config
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.exe
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.pdb
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.dll
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.xml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ru\EntityFramework.resources.dll
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.AssemblyReference.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\MainWindow.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\AdminHomePage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\LoginPage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\StudentHomePage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\TeacherHomePage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\App.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_Content.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.lref
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\App.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\MainWindow.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\AdminHomePage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\LoginPage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\StudentHomePage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\TeacherHomePage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.g.resources
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.Properties.Resources.resources
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.GenerateResource.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.CoreCompileInputs.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.CopyComplete
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.exe
+D:\__8 СЕМЕСТР\Жирнова\Case\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.pdb
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.exe.config
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.exe
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.pdb
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.dll
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.xml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ru\EntityFramework.resources.dll
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.AssemblyReference.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\MainWindow.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\AdminHomePage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\LoginPage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\StudentHomePage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\TeacherHomePage.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\App.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_Content.g.cs
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.lref
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\App.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\MainWindow.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\AdminHomePage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\LoginPage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\StudentHomePage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\TeacherHomePage.baml
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.g.resources
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.Properties.Resources.resources
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.GenerateResource.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.CoreCompileInputs.cache
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.CopyComplete
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.exe
+D:\__8 СЕМЕСТР\Жирнова\Case\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.pdb
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.exe.config
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.exe
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ClassRegister.pdb
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.dll
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.xml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\bin\Debug\ru\EntityFramework.resources.dll
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.AssemblyReference.cache
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\MainWindow.g.cs
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\AdminHomePage.g.cs
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\LoginPage.g.cs
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\StudentHomePage.g.cs
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\TeacherHomePage.g.cs
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\App.g.cs
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_Content.g.cs
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.cache
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister_MarkupCompile.lref
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\App.baml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\MainWindow.baml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\AdminHomePage.baml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\LoginPage.baml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\StudentHomePage.baml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\Pages\TeacherHomePage.baml
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.g.resources
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.Properties.Resources.resources
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.GenerateResource.cache
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.CoreCompileInputs.cache
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.csproj.CopyComplete
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.exe
+D:\__Практика_8 сем\2_Кейс 2_начала\Case_2\ClassRegister-1.1\ClassRegister\obj\Debug\ClassRegister.pdb
